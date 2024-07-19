@@ -1,6 +1,6 @@
 # Part1_Interfaces_Inheritance_and_Objects
 
-## covering:
+## Covering:
 
 ### Abstract Classes and Methods
 
